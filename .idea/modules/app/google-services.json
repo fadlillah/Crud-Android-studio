@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935911473763",
+    "firebase_url": "https://mobile-computing-ii-1317f.firebaseio.com",
+    "project_id": "mobile-computing-ii-1317f",
+    "storage_bucket": "mobile-computing-ii-1317f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935911473763:android:c1f0b4c5b08e99cda36e56",
+        "android_client_info": {
+          "package_name": "com.fadli.myfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935911473763-e6gk2rfkca8jhouvq036ilo1b4k0ha5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fadli.myfragment",
+            "certificate_hash": "db0b7a3dd8d0620d70cd1f6d4263ba8ce6b7b195"
+          }
+        },
+        {
+          "client_id": "935911473763-1dikbhcqqcavgfveevu5h28475j8p8j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1Mi8uq1noLr7ddE7xLOrCUIrMflWGPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935911473763-1dikbhcqqcavgfveevu5h28475j8p8j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
